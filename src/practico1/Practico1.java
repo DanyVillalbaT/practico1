@@ -4,6 +4,8 @@
  */
 package practico1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author daniv
@@ -15,6 +17,8 @@ public class Practico1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola Clase diseño de sistema");
+        Scanner leer = new Scanner(System.in);
     }
     
 }
